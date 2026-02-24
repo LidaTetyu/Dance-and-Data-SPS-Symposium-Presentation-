@@ -3,6 +3,8 @@ Latin Ballroom Dancing Through the Lens of Mathematics
 
 This repository contains my presentation for the 2025 SPS Symposium, Moving Through Math, where I explore Latin and Ballroom dance using mathematical and analytical frameworks.
 
+[Presentation PDF](https://github.com/LidaTetyu/Dance-and-Data-SPS-Symposium-Presentation-/blob/main/SPS%20Symposium%202025_%20Moving%20Through%20Math%20(2).pdf) 
+
 The central premise: math is the science of patterns and dance is structured pattern execution.
 
 ### Fractions
